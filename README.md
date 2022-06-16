@@ -1,4 +1,2 @@
-# Rust Substrate programming solution
+# Rust Substrate Deaveloper VietNam
 Code giải bài tập chương trình Class1: Basic of Rust
-
-Giải bài tập cho lession1
